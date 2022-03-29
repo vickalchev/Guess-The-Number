@@ -1,0 +1,13 @@
+#bkgDrop {
+  width: 50vh;
+  height: 50vh;
+  background-color: black;
+  border-radius: 50% 50% 0% 50%;
+  position: relative;
+}
+
+#form {
+  width: 50vw;
+  height: 50vh;
+  /* position: absolute; */
+}
